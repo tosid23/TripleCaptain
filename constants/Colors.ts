@@ -88,3 +88,67 @@ export const md_deep_purple_A100 = '#B388FF';
 export const md_deep_purple_A200 = '#7C4DFF';
 export const md_deep_purple_A400 = '#651FFF';
 export const md_deep_purple_A700 = '#6200EA';
+
+// Indigo
+export const md_indigo_50 = '#E8EAF6';
+export const md_indigo_100 = '#C5CAE9';
+export const md_indigo_200 = '#9FA8DA';
+export const md_indigo_300 = '#7986CB';
+export const md_indigo_400 = '#5C6BC0';
+export const md_indigo_500 = '#3F51B5';
+export const md_indigo_600 = '#3949AB';
+export const md_indigo_700 = '#303F9F';
+export const md_indigo_800 = '#283593';
+export const md_indigo_900 = '#1A237E';
+export const md_indigo_A100 = '#8C9EFF';
+export const md_indigo_A200 = '#536DFE';
+export const md_indigo_A400 = '#3D5AFE';
+export const md_indigo_A700 = '#304FFE';
+
+// Blue
+export const md_blue_50 = '#E3F2FD';
+export const md_blue_100 = '#BBDEFB';
+export const md_blue_200 = '#90CAF9';
+export const md_blue_300 = '#64B5F6';
+export const md_blue_400 = '#42A5F5';
+export const md_blue_500 = '#2196F3';
+export const md_blue_600 = '#1E88E5';
+export const md_blue_700 = '#1976D2';
+export const md_blue_800 = '#1565C0';
+export const md_blue_900 = '#0D47A1';
+export const md_blue_A100 = '#82B1FF';
+export const md_blue_A200 = '#448AFF';
+export const md_blue_A400 = '#2979FF';
+export const md_blue_A700 = '#2962FF';
+
+// Light Blue
+export const md_light_blue_50 = '#E1F5FE';
+export const md_light_blue_100 = '#B3E5FC';
+export const md_light_blue_200 = '#81D4fA';
+export const md_light_blue_300 = '#4fC3F7';
+export const md_light_blue_400 = '#29B6FC';
+export const md_light_blue_500 = '#03A9F4';
+export const md_light_blue_600 = '#039BE5';
+export const md_light_blue_700 = '#0288D1';
+export const md_light_blue_800 = '#0277BD';
+export const md_light_blue_900 = '#01579B';
+export const md_light_blue_A100 = '#80D8FF';
+export const md_light_blue_A200 = '#40C4FF';
+export const md_light_blue_A400 = '#00B0FF';
+export const md_light_blue_A700 = '#0091EA';
+
+// Cyan
+export const md_cyan_50 = '#E0F7FA';
+export const md_cyan_100 = '#B2EBF2';
+export const md_cyan_200 = '#80DEEA';
+export const md_cyan_300 = '#4DD0E1';
+export const md_cyan_400 = '#26C6DA';
+export const md_cyan_500 = '#00BCD4';
+export const md_cyan_600 = '#00ACC1';
+export const md_cyan_700 = '#0097A7';
+export const md_cyan_800 = '#00838F';
+export const md_cyan_900 = '#006064';
+export const md_cyan_A100 = '#84FFFF';
+export const md_cyan_A200 = '#18FFFF';
+export const md_cyan_A400 = '#00E5FF';
+export const md_cyan_A700 = '#00B8D4';
