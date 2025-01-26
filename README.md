@@ -1,50 +1,47 @@
-# Welcome to your Expo app 👋
+# TripleCaptain
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**TripleCaptain** is a tool designed to effortlessly track and visualize your Fantasy Premier League (FPL) scores week by week. Stay on top of your game with clear insights into your team's performance and your standing in your mini-leagues.
 
-## Get started
+## Overview
 
-1. Install dependencies
+Tired of manually checking your FPL scores and comparing them with your friends? TripleCaptain simplifies the process by automatically fetching your weekly scores and presenting them in an easy-to-understand format.  Get a quick overview of your progress, see how your captain performed, and even compare your scores against your rivals in your mini-leagues, all in one place.
 
-   ```bash
-   npm install
-   ```
+## Key Features
 
-2. Start the app
+*   **Automated Score Retrieval:** TripleCaptain automatically pulls your latest FPL scores each week. No more logging into multiple websites or apps!
+*   **Weekly Performance Breakdown:** Get a detailed breakdown of your weekly points, including individual player scores, bonus points, and any deductions.
+*   **League Standings:**  Track your progress in your mini-leagues with up-to-date standings that are automatically fetched and displayed.
+*   **Historical Data:** View your past scores and track your team's performance trends throughout the season.
+*   **User-Friendly Interface:** A clean and intuitive interface makes it easy to navigate and get the information you need quickly.
+*   **(Optional) Captain Comparison:** See how your captain choice stacked up against the most popular captain picks of the week.
+*   **(Optional) Live Score Updates:**  Optionally, get live score updates during matchdays for even more immediate insights.
 
-   ```bash
-    npx expo start
-   ```
+## Why Use TripleCaptain?
 
-In the output, you'll find options to open the app in a
+*   **Save Time:** Spend less time manually checking scores and more time strategizing for the next gameweek.
+*   **Gain Insights:** Easily identify strengths and weaknesses in your team's performance.
+*   **Stay Competitive:** Keep a close eye on your mini-league rivals and adapt your strategy accordingly.
+*   **Enjoy the Game:**  Focus on the fun of FPL without the hassle of manual score tracking.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## Getting Started
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Instructions on how to set up and use TripleCaptain. For example:
 
-## Get a fresh project
+1.  **Installation:** Clone this repository and install the necessary dependencies using `npm install` or `pip install -r requirements.txt`.
+2.  **Configuration:** Enter your FPL team ID and any relevant league IDs in the configuration file.
+3.  **Usage:** Run the application and view your scores!
 
-When you're ready, run:
+## Contributing
 
-```bash
-npm run reset-project
-```
+We welcome contributions to TripleCaptain! Please see the `CONTRIBUTING.md` file for guidelines.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## License
 
-## Learn more
+This project is licensed under the [MIT License](LICENSE).
 
-To learn more about developing your project with Expo, look at the following resources:
+## Acknowledgements
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+*   Thanks to the creators of the official Fantasy Premier League API.
+*   Any other libraries or resources used in the project.
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+**Stay tuned for more features and updates!**
