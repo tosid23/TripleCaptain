@@ -13,7 +13,7 @@ const Explore = () => {
             </TouchableOpacity>
           </View>
           <ScrollView contentContainerClassName="flex-1 justify-center items-center">
-            <Text className="text-lg font-semibold">Explore</Text>
+            <Text className="text-lg font-semibold">League</Text>
           </ScrollView>
         </SafeAreaView>
   )
