@@ -2,9 +2,14 @@ import { View, Text, ScrollView, TouchableOpacity } from "react-native";
 import React from "react";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { ArrowLeftIcon } from "react-native-heroicons/outline";
+import { useRouter } from "expo-router";
 
 const SignIn = () => {
-  const handleBack = () => {};
+  const router = useRouter();
+
+  const handleBack = () => {
+    router.back();
+  };
 
   const handleLogin = () => {};
 
