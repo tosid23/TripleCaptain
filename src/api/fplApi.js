@@ -1,9 +1,9 @@
 import axios from 'axios';
 
-const FPL_API_BASE_URL = process.env.REACT_APP_FPL_API_URL || 'http://localhost:3001/api/fpl'; // Use environment variable or default
+const FPL_API_BOOTSTRAP_STATIC_URL = process.env.REACT_APP_FPL_API_URL || 'http://localhost:3001/api/bootstrap-static'; // Use environment variable or default
 
 const fplApi = axios.create({
-  baseURL: FPL_API_BASE_URL
+  baseURL: FPL_API_BOOTSTRAP_STATIC_URL
 });
 
 // Add an interceptor to handle errors globally

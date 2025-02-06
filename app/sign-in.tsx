@@ -1,5 +1,5 @@
 import { View, Text, ScrollView, TouchableOpacity } from "react-native";
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { ArrowLeftIcon } from "react-native-heroicons/outline";
 import { useRouter } from "expo-router";
@@ -16,7 +16,6 @@ const SignIn = () => {
   return (
     <SafeAreaView className="bg-white h-full">
       <View className="flex-row items-center p-4">
-        {}
         <TouchableOpacity onPress={handleBack} className="p-2">
           <ArrowLeftIcon size={24} color="black" />
         </TouchableOpacity>
