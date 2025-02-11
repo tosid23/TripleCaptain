@@ -6,7 +6,7 @@ const League = () => {
   return (
     <SafeAreaView className="bg-white h-full">
           <ScrollView contentContainerClassName="flex-1 justify-center items-center">
-            <Text className="text-lg font-semibold">*League Table*</Text>
+            <Text className="text-lg font-semibold">League Table</Text>
     </ScrollView>
         </SafeAreaView>
   )
